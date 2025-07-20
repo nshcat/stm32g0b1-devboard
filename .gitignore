@@ -1,0 +1,5 @@
+fp-info-cache
+production/
+stm32g0b1-devboard-backups/
+~stm32g0b1-devboard.kicad_pcb.lck
+~stm32g0b1-devboard.kicad_sch.lck
